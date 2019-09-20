@@ -1,4 +1,4 @@
-var json_url = "http://api.openweathermap.org/data/2.5/weather?q=60646,ma&appid=6e131a2916d5d45d8367b72a4675be0a";
+var json_url = "api.openweathermap.org/data/2.5/weather?id=2078025";
 var city;
 var temp_curr;
 var temp_low;
